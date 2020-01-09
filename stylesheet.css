@@ -1,7 +1,7 @@
 /*Front-page CSS*/
 @media only screen and (max-width: 800px) {
     body {
-        font-size: 1.5em;
+        font-size: 1.3em;
     }
     .home-page-logo{
         width: 270px !important;
@@ -15,7 +15,7 @@
 }
 @media only screen and (max-width: 450px) {
     body {
-        font-size: 1.6em;
+        font-size: 1.4em;
     }
     .home-page-logo{
         width: 250px !important;
@@ -105,3 +105,4 @@ border: none;
 :-moz-placeholder { /* Firefox 18- */
   font-family:'Open Sans', sans-serif;
 }
+
