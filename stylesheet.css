@@ -4,7 +4,7 @@
         font-size: 1.6em;
     }
     .home-page-logo{
-        width: 270px;
+        width: 270px !important;
     }
     .home-page-inner form {
         width: 380px;
@@ -18,7 +18,7 @@
         font-size: 1.8em;
     }
     .home-page-logo{
-        width: 250px;
+        width: 250px !important;
     }
     
     .home-page-inner form {
