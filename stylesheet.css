@@ -1,7 +1,7 @@
-/*Media queries*/
+/*Front-page CSS*/
 @media only screen and (max-width: 800px) {
     body {
-        font-size: 1.6em;
+        font-size: 1.5em;
     }
     .home-page-logo{
         width: 270px !important;
@@ -15,7 +15,7 @@
 }
 @media only screen and (max-width: 450px) {
     body {
-        font-size: 1.8em;
+        font-size: 1.6em;
     }
     .home-page-logo{
         width: 250px !important;
@@ -31,7 +31,7 @@
 
 /*Blue background section*/
 body {
-  margin-bottom:200px;
+  margin-bottom:100px;
 }
 
 .home-page-outer {
@@ -86,10 +86,11 @@ border: none;
     width: 100%;
 }
 
-footer {
+.front-page-footer {
   position: fixed;
   bottom: 0;
   width: 100%;
+  padding: 15px;
 }
 
 .btn-primary,.home-page-slogan, .home-page-bottom .col-sm-12, ::-webkit-input-placeholder {
@@ -104,4 +105,3 @@ footer {
 :-moz-placeholder { /* Firefox 18- */
   font-family:'Open Sans', sans-serif;
 }
-
